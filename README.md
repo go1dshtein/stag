@@ -1,3 +1,4 @@
+<img src="http://maxpixel.freegreatpicture.com/static/photo/1x/Antler-Funny-Deer-Brown-Moose-Animal-Mammal-159022.png" width="300">
 # stag
 CLI utility to fill attendance sheet
 
