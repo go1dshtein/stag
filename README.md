@@ -8,8 +8,8 @@ You need:
  - google api secret token
  - browser for oauth authentication
  
-You can retrieve the token from this (https://console.developers.google.com/start/api?id=sheets.googleapis.com)[page].
-For details see (https://developers.google.com/sheets/api/quickstart/python#step_1_turn_on_the_api_name)[tutorial]
+You can retrieve the token from this [page](https://console.developers.google.com/start/api?id=sheets.googleapis.com).
+For details see [tutorial](https://developers.google.com/sheets/api/quickstart/python#step_1_turn_on_the_api_name).
 
 # installation
 As usual
