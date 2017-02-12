@@ -1,2 +1,2 @@
-# tlalim-stag
+# stag
 CLI utility to fill attendance sheet
